@@ -1,2 +1,2 @@
 # CursoGiteGitHub
- Curso do Guanabara
+ Curso do Guanabara feito ao vivo!
